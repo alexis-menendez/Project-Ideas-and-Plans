@@ -1,5 +1,5 @@
 # Project-Ideas-and-Plans
-*A living index of practical, goal-driven coding projects organized by discipline.*
+*An index of practical, goal-driven coding projects organized by discipline.*
 
 ## **API Design & Documentation**
 Projects focused on creating, documenting, and interacting with RESTful APIs.
